@@ -10,3 +10,10 @@
 )
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Quesito07/Quesito07)
+
+
+### :zap: Reciente actctividad
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
